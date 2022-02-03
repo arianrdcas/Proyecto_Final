@@ -1,4 +1,5 @@
 import React from "react";
+import  ReactBootStrap from "react-bootstrap";
 import './assets/css/style.css';
 import './assets/css/animate.css';
 import './assets/css/bootsnav.css';
@@ -269,7 +270,7 @@ const Navbar  = () => {
                         <span className="icon-bar" />
                         </button>
                         <a className="navbar-brand" href="index.html">
-                        <img src="assets/images/logo/logo.png" alt="logo" />
+                        <img src="assets\images\logo\logo.png" alt="logo" />
                         </a>
                     </div>
                     {/*/.navbar-header */}
